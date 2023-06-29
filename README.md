@@ -1,24 +1,18 @@
-# README
+# Phase-2-group-project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Project Title
 
-* Ruby version
+Apartments
+ 
 
-* System dependencies
 
-* Configuration
+# Authors
+This project was contributed by:
+- [Denis Were](https://github.com/Bsquiat1)
+- [Bryan Waweru](https://github.com/Bwaweru12345)
+- [Faith Mwangi](https://github.com/faithmwangi)
+- [Ernest Wambugu](https://github.com/3rnestt)
+- [Elsie Hawi](https://github.com/HawiElsie)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
