@@ -1,0 +1,20 @@
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+/Users/jonathannjine/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/jonathannjine/.rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-h3cghc sitelibdir\=./.gem.20230629-75898-h3cghc clean
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-h3cghc sitelibdir\=./.gem.20230629-75898-h3cghc
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-h3cghc sitelibdir\=./.gem.20230629-75898-h3cghc install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20230629-75898-h3cghc/racc
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-h3cghc sitelibdir\=./.gem.20230629-75898-h3cghc clean
