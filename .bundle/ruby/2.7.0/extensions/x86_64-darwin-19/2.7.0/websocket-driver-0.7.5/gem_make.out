@@ -1,0 +1,18 @@
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/jonathannjine/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/jonathannjine/.rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+creating Makefile
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-1xrk7ym sitelibdir\=./.gem.20230629-75898-1xrk7ym clean
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-1xrk7ym sitelibdir\=./.gem.20230629-75898-1xrk7ym
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-1xrk7ym sitelibdir\=./.gem.20230629-75898-1xrk7ym install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20230629-75898-1xrk7ym
+
+current directory: /Users/jonathannjine/Phase-4/Group-2-apartments/.bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230629-75898-1xrk7ym sitelibdir\=./.gem.20230629-75898-1xrk7ym clean
